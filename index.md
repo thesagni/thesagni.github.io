@@ -9,8 +9,8 @@ title: Home
 
 Doctoral Candidate • MSc in AI • Btech in Mechanical Engineering  
 
-📧 📧 [University Email](mailto:sagni.majumdar@faps.fau.de) | [Personal Email](mailto:sagnimajumdar1995@gmail.com)
-| [LinkedIn](https://www.linkedin.com/in/sagni-majumdar) | [Resume PDF](/assets/Sagni_Majumdar_Resume.pdf)
+📧 [University Email](mailto:sagni.majumdar@fau.de) | [Personal Email](mailto:sagnimajumdar1995@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sagni-majumdar) | [Resume PDF](/assets/Sagni_Majumdar_Resume.pdf)
+
 
 ---
 
