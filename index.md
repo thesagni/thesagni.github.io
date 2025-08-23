@@ -7,7 +7,7 @@ title: Home
 <img src="/assets/My_Photo.jpg" alt="Profile Picture" style="border-radius:50%; width:180px;">
 
 
-Doctoral Candidate • MSc in AI • Mechanical Engineer  
+Doctoral Candidate • MSc in AI • Btech in Mechanical Engineering  
 
 📧 [Email](mailto:sagni.majumdar@fau.de) | [LinkedIn](https://www.linkedin.com/in/sagni-majumdar) | [Resume PDF](/assets/Sagni_Majumdar_Resume.pdf)
 
