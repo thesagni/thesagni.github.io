@@ -4,7 +4,8 @@ title: Home
 ---
 
 # Sagni Majumdar  
-![Profile Picture](/assets/My_Photo.jpg){:style="border-radius:50%; width:180px;"}
+<img src="/assets/My_Photo.jpg" alt="Profile Picture" style="border-radius:50%; width:180px;">
+
 
 Doctoral Candidate • MSc in AI • Mechanical Engineer  
 
